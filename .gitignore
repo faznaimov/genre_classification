@@ -129,5 +129,6 @@ dmypy.json
 .pyre/
 
 # mlflow
-/mlruns
-/outputs
+mlruns
+outputs
+wandb
